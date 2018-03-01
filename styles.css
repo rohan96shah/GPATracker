@@ -1,0 +1,15 @@
+body {
+	background-color: #659DBD;
+	font-family: 'Quicksand', sans-serif;
+}
+
+#app {
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-right: 30px;
+	text-align: center;
+	margin: auto;
+	margin-top: 40px;
+	color: white;
+
+}
