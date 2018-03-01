@@ -1,0 +1,5 @@
+MyApp = (function(){
+
+	return app;
+
+})();
