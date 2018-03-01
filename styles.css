@@ -14,8 +14,8 @@ body {
 
 }
 
-.button {
-	display:block;
+#button1, #button2, #button3 {
+	/*display:block;*/
 	padding-right: 30px;
 	padding-left: 30px;
 	padding-top: 10px;
