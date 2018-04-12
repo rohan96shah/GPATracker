@@ -35,6 +35,9 @@
     <li>GPA Desired</li>
     <li>Number of credits the user plans on taking to reach the desired GPA</li>
   </ul>
+  
+  <li>The system shall only consider UT Arlington’s grading system, i.e.  A, B, C, D, F.</li>
+  <li>The system shall only consider UT Arlington’s grading system, i.e.  A, B, C, D, F.</li>
 </ol>
 <br/>
 Note: Output for 3 - If the desired GPA is possible or not. Also calculates the highest GPA the student can maintain after taking the number of credits specified (in 3. b.).
