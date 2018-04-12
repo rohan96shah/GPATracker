@@ -1,0 +1,58 @@
+body {
+	background-color: #659DBD;
+	font-family: 'Quicksand', sans-serif;
+}
+
+#app {
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-right: 30px;
+	text-align: center;
+	margin: auto;
+	margin-top: 40px;
+	color: white;
+
+}
+
+#button1, #button2, #button3 {
+/*	display:inline;*/
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: auto;
+	margin-top: 20px;
+	margin-right: 20px;
+	background-color: black;
+	color: white;
+	border-radius: 5px;
+	border: 0px;
+}
+
+#submitSemesterGPA {
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: auto;
+	margin-top: 20px;
+	background-color: black;
+	color: white;
+	border-radius: 5px;
+	border: 0px;
+}
+#classes_go, #classes_cumGPA_go, #Calc_new_cum_GPA, #classes_planImprovementGo, #classes_planImprovementCalculate{
+	display: block;
+	margin: auto;
+	margin-top: 20px;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: black;
+	color: white;
+	border-radius: 5px;
+	border: 0px;
+}
+
+
